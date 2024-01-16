@@ -18,8 +18,8 @@
 
 ## My Skill
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Rollphes&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats-five-mocha-63.vercel.app/api?username=Rollphes&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rollphes&layout=compact" />
+  <img align="left" src="https://github-readme-stats-five-mocha-63.vercel.app/api/top-langs/?username=Rollphes&layout=compact" />
 </a>
