@@ -14,7 +14,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%40Rollphes-1DA1F2?logo=twitter&style=flat-square)](https://twitter.com/Rollphes)
 
 ## Status
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rollphes)
+![](https://raw.githubusercontent.com/Rollphes/Rollphes/main/profile-summary-card-output/default/0-profile-details.svg)
 
 ## My Skill
 <a href="https://github.com/anuraghazra/github-readme-stats">
