@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Rollphes/Rollphes/main/profile-summary-card-output/highcontrast/4-productive-time.svg)
+```
+
+    
