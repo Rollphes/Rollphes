@@ -1,16 +1,17 @@
-## About me
+# About me
 - Name: Rollphes (nickname:ロル)  
 - Age: 22
 - Country: Japan
 - Language
   - Japanese (main)
   - English (almost read only)
-- Favorite
-  - [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=flat-square&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  - [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)](https://www.typescriptlang.org/)
 - Work
-  - IT Engineer
-
+  - IT Engineer(Freelance)
+## Favorites
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=flat-square&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)](https://www.typescriptlang.org/)
+## Link to my pages
+[![GitHub](https://img.shields.io/badge/-Here!_%F0%9F%90%B1-000?color=FFF&logo=github&logoColor=181717&logoSize=auto)](https://github.com/Rollphes)
 [![Twitter](https://img.shields.io/badge/Twitter-%40Rollphes-1DA1F2?logo=twitter&style=flat-square)](https://twitter.com/Rollphes)
 
 ## Status
