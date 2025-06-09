@@ -8,10 +8,26 @@
 - Work
   - IT Engineer(Freelance)
 ## Favorites
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=flat-square&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript&logoSize=auto)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=TypeScript&logoSize=auto)](https://www.typescriptlang.org/)
+[![Unity](https://img.shields.io/badge/-Unity-000?logo=unity&logoSize=auto)](https://unity.com/)
+[![React](https://img.shields.io/badge/-React-000?logo=React&logoSize=auto)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoSize=auto)](https://nextjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?logo=tailwindcss&logoSize=auto)](https://tailwindcss.com/)
+[![ESLint](https://img.shields.io/badge/-ESLint-000?logo=eslint&logoSize=auto)](https://eslint.org/)
+[![Kysely](https://img.shields.io/badge/-Kysely-000?logo=kysely&logoSize=auto)](https://kysely.dev/)
+[![Prisma](https://img.shields.io/badge/-Prisma-000?logo=prisma&logoSize=auto)](https://www.prisma.io/)
+[![CloudFlare](https://img.shields.io/badge/-cloudflare-000?logo=cloudflare&logoSize=auto)](https://www.cloudflare.com/)
+[![Hono](https://img.shields.io/badge/-Hono-000?logo=hono&logoSize=auto)](https://hono.dev/)
+[![Node.js](https://img.shields.io/badge/-Node.js-000?logo=nodedotjs&logoSize=auto)](https://nodejs.org/)
+[![Bun](https://img.shields.io/badge/-Bun-000?logo=bun&logoSize=auto)](https://bun.sh/)
+[![Github Actions](https://img.shields.io/badge/-Github%20Actions-000?logo=githubactions&logoSize=auto)](https://github.com/features/actions)
+
+
+
 ## Link to my pages
 [![GitHub](https://img.shields.io/badge/-Rollphes-000?logoSize=auto&labelColor=FFF&logo=github&logoColor=000)](https://github.com/Rollphes)
+[![npm](https://img.shields.io/badge/-rollphes-000?logoSize=auto&labelColor=FFF&logo=npm&logoColor=CC3534)](https://www.npmjs.com/~rollphes)
 [![Twitter](https://img.shields.io/badge/-@rollphes-000?logoSize=auto&labelColor=FFF&logo=x&logoColor=000)](https://twitter.com/rollphes)
 [![Qiita](https://img.shields.io/badge/-@Rollphes-000?logoSize=auto&labelColor=FFF&logo=qiita)](https://qiita.com/Rollphes)
 [![Zenn](https://img.shields.io/badge/-Rollphes-000?logoSize=auto&labelColor=FFF&logo=zenn)](https://zenn.dev/rollphes)
