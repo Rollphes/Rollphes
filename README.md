@@ -22,6 +22,8 @@
 [![Node.js](https://img.shields.io/badge/-Node.js-000?logo=nodedotjs&logoSize=auto)](https://nodejs.org/)
 [![Bun](https://img.shields.io/badge/-Bun-000?logo=bun&logoSize=auto)](https://bun.sh/)
 [![Github Actions](https://img.shields.io/badge/-Github%20Actions-000?logo=githubactions&logoSize=auto)](https://github.com/features/actions)
+[![quicktype](https://img.shields.io/badge/-quicktype-000?logo=quicktype&logoSize=auto)](https://quicktype.io/)
+[![Notion](https://img.shields.io/badge/-Notion-000?logo=notion&logoSize=auto)](https://www.notion.com/)
 
 
 
