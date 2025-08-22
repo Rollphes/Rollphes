@@ -1,7 +1,13 @@
-# About me
+# Hi There 👋
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Rollphes&color=blue)](https://github.com/Rollphes)
+:beer:Welcome to my GitHub profile! I'm Rollphes. Thanks for stopping by.
+
+
+## About me
 
 - Name: Rollphes (nickname:ロル)
-- Age: 22
+- Age: 23
 - Country: Japan
 - Language
   - Japanese (main)
@@ -38,6 +44,10 @@
   </div>
 </div>
 <!-- markdownlint-enable MD033 -->
+
+## Community
+
+[![Genshin Impact(JPN)](https://img.shields.io/discord/762647727343009823?label=genshin-impact-jpn&logo=discord)](https://discord.com/invite/genshin-impact-jpn) Server owner
 
 ## Technologies I've Used
 
