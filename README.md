@@ -1,5 +1,5 @@
 # About me
-- Name: Rollphes (nickname:ロル)  
+- Name: Rollphes (nickname:ロル)
 - Age: 22
 - Country: Japan
 - Language
@@ -52,11 +52,8 @@
 ![](https://raw.githubusercontent.com/Rollphes/Rollphes/main/profile-summary-card-output/default/0-profile-details.svg)
 
 ## My Skill
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-five-mocha-63.vercel.app/api?username=Rollphes&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-five-mocha-63.vercel.app/api/top-langs/?username=Rollphes&layout=compact" />
-</a>
+[![GitHub Readme Stats](/grs/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](/grs/langs.svg)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rollphes)](https://github.com/ryo-ma/github-profile-trophy)

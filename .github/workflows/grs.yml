@@ -1,0 +1,43 @@
+name: Generate README stats
+
+on:
+  schedule:
+    - cron: '0 1 * * *' # daily at 01:00 UTC
+  workflow_dispatch:
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate stats card
+        uses: UlyssesZh/grs-action@v0
+        with:
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          card: stats
+          options: username=Rollphes&count_private=true&show_icons=true
+          path: grs/stats.svg
+
+      - name: Generate languages card
+        uses: UlyssesZh/grs-action@v0
+        with:
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          card: langs
+          options: username=Rollphes&layout=compact
+          path: grs/langs.svg
+
+      - name: Commit generated assets
+        uses: EndBug/add-and-commit@v9
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+        with:
+          author_name: github-actions[bot]
+          author_email: 41898282+github-actions[bot]@users.noreply.github.com
+          message: "chore: update README stats [skip ci]"
+          add: "grs/stats.svg grs/langs.svg"
+          push: true
