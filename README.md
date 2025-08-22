@@ -9,7 +9,37 @@
 - Work
   - IT Engineer(Freelance)
 
-## Favorites
+## Status
+
+<!-- markdownlint-disable MD033 -->
+<div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap">
+  <!-- Left: profile summary -->
+  <div style="flex:0 0 360px;max-width:360px">
+    <a href="https://github.com/Rollphes">
+      <img src="https://raw.githubusercontent.com/Rollphes/Rollphes/main/profile-summary-card-output/default/0-profile-details.svg" alt="profile summary" style="width:100%;height:auto;border-radius:8px;" />
+    </a>
+  </div>
+
+  <!-- Right: stats / languages / trophy -->
+  <div style="display:flex;flex-direction:column;gap:12px;flex:1;min-width:220px">
+    <div style="display:flex;gap:12px;flex-wrap:wrap">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="/grs/stats.svg" alt="GitHub Readme Stats" style="max-width:420px;height:auto;" />
+      </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="/grs/langs.svg" alt="Top Languages" style="max-width:300px;height:auto;" />
+      </a>
+    </div>
+    <div>
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Rollphes" alt="GitHub profile trophy" style="max-width:420px;height:auto;" />
+      </a>
+    </div>
+  </div>
+</div>
+<!-- markdownlint-enable MD033 -->
+
+## Technologies I've Used
 
 ### Languages
 
@@ -106,33 +136,3 @@
 [![Twitter](https://img.shields.io/badge/-@rollphes-000?logoSize=auto&labelColor=FFF&logo=x&logoColor=000)](https://twitter.com/rollphes)
 [![Qiita](https://img.shields.io/badge/-@Rollphes-000?logoSize=auto&labelColor=FFF&logo=qiita)](https://qiita.com/Rollphes)
 [![Zenn](https://img.shields.io/badge/-Rollphes-000?logoSize=auto&labelColor=FFF&logo=zenn)](https://zenn.dev/rollphes)
-
-## Status
-
-<!-- markdownlint-disable MD033 -->
-<div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap">
-  <!-- Left: profile summary -->
-  <div style="flex:0 0 360px;max-width:360px">
-    <a href="https://github.com/Rollphes">
-      <img src="https://raw.githubusercontent.com/Rollphes/Rollphes/main/profile-summary-card-output/default/0-profile-details.svg" alt="profile summary" style="width:100%;height:auto;border-radius:8px;" />
-    </a>
-  </div>
-
-  <!-- Right: stats / languages / trophy -->
-  <div style="display:flex;flex-direction:column;gap:12px;flex:1;min-width:220px">
-    <div style="display:flex;gap:12px;flex-wrap:wrap">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="/grs/stats.svg" alt="GitHub Readme Stats" style="max-width:420px;height:auto;" />
-      </a>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="/grs/langs.svg" alt="Top Languages" style="max-width:300px;height:auto;" />
-      </a>
-    </div>
-    <div>
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=Rollphes" alt="GitHub profile trophy" style="max-width:420px;height:auto;" />
-      </a>
-    </div>
-  </div>
-</div>
-<!-- markdownlint-enable MD033 -->
