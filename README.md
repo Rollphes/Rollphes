@@ -113,6 +113,7 @@
 [![SourceTree](https://img.shields.io/badge/-Sourcetree-000?logo=sourcetree&logoSize=auto&logoColor=0052CC)](https://www.sourcetreeapp.com/)
 [![quicktype](https://img.shields.io/badge/-quicktype-000?logo=quicktype&logoSize=auto)](https://quicktype.io/)
 [![Figma](https://img.shields.io/badge/-Figma-000?logo=figma&logoSize=auto)](https://www.figma.com/)
+[![Postman](https://img.shields.io/badge/-Postman-000?logo=postman&logoSize=auto)](https://www.postman.com/)
 [![fish](https://img.shields.io/badge/-fish-000?logo=fish&logoSize=auto)](https://fishshell.com/)
 
 **Communication:**
