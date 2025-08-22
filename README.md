@@ -90,7 +90,7 @@
 [![Slack](https://img.shields.io/badge/-Slack-000?logo=slack&logoSize=auto)](https://slack.com/)
 [![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-000?logo=microsoftteams&logoSize=auto)](https://www.microsoft.com/microsoft-teams)
 [![Notion](https://img.shields.io/badge/-Notion-000?logo=notion&logoSize=auto)](https://www.notion.com/)
-[![Discord](https://img.shields.io/badge/-Discord-000?logo=discord&logoSize=auto)](https://dicord.com/)
+[![Discord](https://img.shields.io/badge/-Discord-000?logo=discord&logoSize=auto)](https://discord.com/)
 
 ### AI
 
@@ -109,11 +109,31 @@
 
 ## Status
 
-![profile summary](https://raw.githubusercontent.com/Rollphes/Rollphes/main/profile-summary-card-output/default/0-profile-details.svg)
+<!-- markdownlint-disable MD033 -->
+<div style="display:flex;gap:16px;align-items:flex-start;flex-wrap:wrap">
+  <!-- Left: profile summary -->
+  <div style="flex:0 0 360px;max-width:360px">
+    <a href="https://github.com/Rollphes">
+      <img src="https://raw.githubusercontent.com/Rollphes/Rollphes/main/profile-summary-card-output/default/0-profile-details.svg" alt="profile summary" style="width:100%;height:auto;border-radius:8px;" />
+    </a>
+  </div>
 
-## My Skill
+  <!-- Right: stats / languages / trophy -->
+  <div style="display:flex;flex-direction:column;gap:12px;flex:1;min-width:220px">
+    <div style="display:flex;gap:12px;flex-wrap:wrap">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="/grs/stats.svg" alt="GitHub Readme Stats" style="max-width:420px;height:auto;" />
+      </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="/grs/langs.svg" alt="Top Languages" style="max-width:300px;height:auto;" />
+      </a>
+    </div>
 
-[![GitHub Readme Stats](/grs/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](/grs/langs.svg)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rollphes)](https://github.com/ryo-ma/github-profile-trophy)
+    <div>
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Rollphes" alt="GitHub profile trophy" style="max-width:420px;height:auto;" />
+      </a>
+    </div>
+  </div>
+</div>
+<!-- markdownlint-enable MD033 -->
