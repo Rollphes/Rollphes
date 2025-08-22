@@ -128,7 +128,6 @@
         <img src="/grs/langs.svg" alt="Top Languages" style="max-width:300px;height:auto;" />
       </a>
     </div>
-
     <div>
       <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=Rollphes" alt="GitHub profile trophy" style="max-width:420px;height:auto;" />
