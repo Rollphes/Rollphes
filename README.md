@@ -55,66 +55,74 @@
 **Languages:**
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript&logoSize=auto)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=TypeScript&logoSize=auto)](https://www.typescriptlang.org/)
+[![C](https://img.shields.io/badge/-C-000?logo=c&logoSize=auto)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/-C++-000?logo=cplusplus&logoSize=auto)](https://isocpp.org/)
+[![C#](https://img.shields.io/badge/-C%23-000?logo=csharp&logoSize=auto)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Python](https://img.shields.io/badge/-Python-000?logo=python&logoSize=auto)](https://www.python.org/)
 
 **Frameworks & Libraries:**
-[![Unity](https://img.shields.io/badge/-Unity-000?logo=unity&logoSize=auto)](https://unity.com/)
-[![Hono](https://img.shields.io/badge/-Hono-000?logo=hono&logoSize=auto)](https://hono.dev/)
 [![React](https://img.shields.io/badge/-React-000?logo=React&logoSize=auto)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoSize=auto)](https://nextjs.org/)
+[![Angular](https://img.shields.io/badge/-Angular-000?logo=angular&logoColor=red&logoSize=auto)](https://angular.io/)
+[![Hono](https://img.shields.io/badge/-Hono-000?logo=hono&logoSize=auto)](https://hono.dev/)
+[![.NET](https://img.shields.io/badge/-.NET-000?logo=dotnet&logoSize=auto)](https://dotnet.microsoft.com/)
+[![Unity](https://img.shields.io/badge/-Unity-000?logo=unity&logoSize=auto)](https://unity.com/)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?logo=tailwindcss&logoSize=auto)](https://tailwindcss.com/)
 [![Electron](https://img.shields.io/badge/-Electron-000?logo=electron&logoSize=auto)](https://www.electronjs.org/)
-[![Angular](https://img.shields.io/badge/-Angular-000?logo=angular&logoColor=red&logoSize=auto)](https://angular.io/)
+
+**Runtime:**
+[![Node.js](https://img.shields.io/badge/-Node.js-000?logo=nodedotjs&logoSize=auto)](https://nodejs.org/)
+[![Bun](https://img.shields.io/badge/-Bun-000?logo=bun&logoSize=auto)](https://bun.sh/)
 
 **Databases:**
 [![Kysely](https://img.shields.io/badge/-Kysely-000?logo=kysely&logoSize=auto)](https://kysely.dev/)
 [![Prisma](https://img.shields.io/badge/-Prisma-000?logo=prisma&logoSize=auto&logoColor=2D3748)](https://www.prisma.io/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=postgresql&logoSize=auto)](https://www.postgresql.org/)
 [![SQLite](https://img.shields.io/badge/-Sqlite-000?logo=sqlite&logoSize=auto&logoColor=003B57)](https://sqlite.org/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=mongodb&logoSize=auto)](https://www.mongodb.com/)
 [![FireBase](https://img.shields.io/badge/-Firebase-000?logo=firebase&logoSize=auto&logoColor=DD2C00)](https://firebase.google.com/)
 [![Neon](https://img.shields.io/badge/-Neon-000?logo=neon&logoSize=auto)](https://neon.tech/)
 
-**Static Analysis:**
-[![ESLint](https://img.shields.io/badge/-ESLint-000?logo=eslint&logoSize=auto&logoColor=4B32C3)](https://eslint.org/)
-[![Prettier](https://img.shields.io/badge/-Prettier-000?logo=prettier&logoSize=auto)](https://prettier.io/)
+**Infrastructure & Deployment:**
+[![CloudFlare](https://img.shields.io/badge/-Cloudflare-000?logo=cloudflare&logoSize=auto)](https://www.cloudflare.com/)
+[![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare%20Workers-000?logo=cloudflare&logoSize=auto)](https://workers.cloudflare.com/)
+[![Cloudflare Pages](https://img.shields.io/badge/-Cloudflare%20Pages-000?logo=cloudflare&logoSize=auto)](https://pages.cloudflare.com/)
+[![Heroku](https://img.shields.io/badge/-Heroku-000?logo=heroku&logoSize=auto)](https://www.heroku.com/)
+[![Docker](https://img.shields.io/badge/-Docker-000?logo=docker&logoSize=auto)](https://www.docker.com/)
+[![Github Actions](https://img.shields.io/badge/-Github%20Actions-000?logo=githubactions&logoSize=auto)](https://github.com/features/actions)
+[![pm2](https://img.shields.io/badge/-pm2-000?logo=pm2&logoSize=auto)](https://pm2.keymetrics.io/)
 
-**CI/CD:**
+**Testing & Quality:**
 [![Jest](https://img.shields.io/badge/-Jest-000?logo=jest&logoSize=auto)](https://jestjs.io/)
 [![Vitest](https://img.shields.io/badge/-Vitest-000?logo=vitest&logoSize=auto)](https://vitest.dev/)
 [![Puppeteer](https://img.shields.io/badge/-Puppeteer-000?logo=puppeteer&logoSize=auto)](https://pptr.dev/)
-[![Github Actions](https://img.shields.io/badge/-Github%20Actions-000?logo=githubactions&logoSize=auto)](https://github.com/features/actions)
+[![ESLint](https://img.shields.io/badge/-ESLint-000?logo=eslint&logoSize=auto&logoColor=4B32C3)](https://eslint.org/)
+[![Prettier](https://img.shields.io/badge/-Prettier-000?logo=prettier&logoSize=auto)](https://prettier.io/)
 [![ReviewDog](https://img.shields.io/badge/-ReviewDog-000?logo=reviewdog&logoSize=auto)](https://github.com/reviewdog/reviewdog)
 [![Codecov](https://img.shields.io/badge/-Codecov-000?logo=codecov&logoSize=auto)](https://about.codecov.io/)
 
-**Runtime:**
-[![CloudFlare](https://img.shields.io/badge/-cloudflare-000?logo=cloudflare&logoSize=auto)](https://www.cloudflare.com/)
-[![Node.js](https://img.shields.io/badge/-Node.js-000?logo=nodedotjs&logoSize=auto)](https://nodejs.org/)
-[![Bun](https://img.shields.io/badge/-Bun-000?logo=bun&logoSize=auto)](https://bun.sh/)
-[![Docker](https://img.shields.io/badge/-Docker-000?logo=docker&logoSize=auto)](https://www.docker.com/)
-
-**Process & Deployment:**
-[![pm2](https://img.shields.io/badge/-pm2-000?logo=pm2&logoSize=auto)](https://pm2.keymetrics.io/)
-
-**Monitoring & Observability:**
+**Monitoring:**
 [![Sentry](https://img.shields.io/badge/-Sentry-000?logo=sentry&logoSize=auto)](https://sentry.io/)
 
-**Version Managers:**
-[![nvm](https://img.shields.io/badge/-nvm-000?logo=nvm&logoSize=auto)](https://github.com/nvm-sh/nvm)
-[![Volta](https://img.shields.io/badge/-Volta-000?logo=volta&logoSize=auto)](https://volta.sh/)
-
-**OS:**
-[![Windows](https://img.shields.io/badge/-Windows-000?logo=windows&logoSize=auto)](https://ubuntu.com/)
-[![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?logo=ubuntu&logoSize=auto)](https://ubuntu.com/)
-[![Linux](https://img.shields.io/badge/-Linux-000?logo=linux&logoSize=auto)](https://kernel.org/)
-[![WSL](https://img.shields.io/badge/-WSL-000?logo=wsl&logoSize=auto)](https://learn.microsoft.com/windows/wsl/)
-
-**Editors & Dev Tools:**
+**Development Tools:**
 [![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-000?logo=visual-studio&logoSize=auto)](https://www.microsoft.com/en-us/windows)
 [![VSCode](https://img.shields.io/badge/-VSCode-000?logo=visual-studio-code&logoSize=auto)](https://code.visualstudio.com/)
 [![SourceTree](https://img.shields.io/badge/-Sourcetree-000?logo=sourcetree&logoSize=auto&logoColor=0052CC)](https://www.sourcetreeapp.com/)
 [![quicktype](https://img.shields.io/badge/-quicktype-000?logo=quicktype&logoSize=auto)](https://quicktype.io/)
 [![Figma](https://img.shields.io/badge/-Figma-000?logo=figma&logoSize=auto)](https://www.figma.com/)
 [![Postman](https://img.shields.io/badge/-Postman-000?logo=postman&logoSize=auto)](https://www.postman.com/)
+[![Arduino](https://img.shields.io/badge/-Arduino-000?logo=arduino&logoSize=auto)](https://www.arduino.cc/)
 [![fish](https://img.shields.io/badge/-fish-000?logo=fish&logoSize=auto)](https://fishshell.com/)
+[![npm](https://img.shields.io/badge/-npm-000?logo=npm&logoSize=auto)](https://www.npmjs.com/)
+[![dotenv](https://img.shields.io/badge/-dotenv-000?logo=dotenv&logoSize=auto)](https://github.com/motdotla/dotenv)
+[![nvm](https://img.shields.io/badge/-nvm-000?logo=nvm&logoSize=auto)](https://github.com/nvm-sh/nvm)
+[![Volta](https://img.shields.io/badge/-Volta-000?logo=volta&logoSize=auto)](https://volta.sh/)
+
+**OS & Environment:**
+[![Windows](https://img.shields.io/badge/-Windows-000?logo=windows&logoSize=auto)](https://ubuntu.com/)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?logo=ubuntu&logoSize=auto)](https://ubuntu.com/)
+[![Linux](https://img.shields.io/badge/-Linux-000?logo=linux&logoSize=auto)](https://kernel.org/)
+[![WSL](https://img.shields.io/badge/-WSL-000?logo=wsl&logoSize=auto)](https://learn.microsoft.com/windows/wsl/)
 
 **Communication:**
 [![Slack](https://img.shields.io/badge/-Slack-000?logo=slack&logoSize=auto)](https://slack.com/)
@@ -123,9 +131,10 @@
 [![Discord](https://img.shields.io/badge/-Discord-000?logo=discord&logoSize=auto)](https://discord.com/)
 
 **AI:**
-[![NoteBookLM](https://img.shields.io/badge/-NoteBookLM-000?logo=google&logoSize=auto)](https://developers.google.com/)
-[![gemini](https://img.shields.io/badge/-gemini-000?logo=google&logoSize=auto)](https://developers.google.com/)
-[![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000?logo=github&logoSize=auto)](https://github.com/features/copilot)
+[![Claude](https://img.shields.io/badge/-Claude-000?logo=claude&logoSize=auto)](https://claude.ai/)
+[![NoteBookLM](https://img.shields.io/badge/-NoteBookLM-000?logo=notebooklm&logoSize=auto)](https://developers.google.com/)
+[![gemini](https://img.shields.io/badge/-gemini-000?logo=googlegemini&logoSize=auto)](https://developers.google.com/)
+[![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000?logo=githubcopilot&logoSize=auto)](https://github.com/features/copilot)
 [![Whisper](https://img.shields.io/badge/-Whisper-000?logo=openai&logoSize=auto)](https://openai.com/research/whisper)
 
 ## Link to my pages
