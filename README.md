@@ -14,7 +14,7 @@
   - Japanese (main)
   - English (almost read only)
 - Work
-  - IT Engineer(Freelance)
+  - IT Engineer(FrontMain)
 
 ## Status
 
