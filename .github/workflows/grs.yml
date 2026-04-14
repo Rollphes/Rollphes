@@ -16,7 +16,7 @@ jobs:
           fetch-depth: 0
 
       - name: Generate stats card
-        uses: UlyssesZh/grs-action@v0
+        uses: stats-organization/github-readme-stats-action@v1
         with:
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
           card: stats
@@ -24,10 +24,10 @@ jobs:
           path: grs/stats.svg
 
       - name: Generate languages card
-        uses: UlyssesZh/grs-action@v0
+        uses: stats-organization/github-readme-stats-action@v1
         with:
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          card: langs
+          card: top-langs
           options: username=Rollphes&layout=compact
           path: grs/langs.svg
 
