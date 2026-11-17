@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Rollphes' GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 27, Total Commits  (last year) : 536, Total PRs: 695, Total Issues: 222, Contributed to (last year): 7</desc>
+        <desc id="descId">Total Stars Earned: 27, Total Commits  (last year) : 536, Total PRs: 705, Total Issues: 223, Contributed to (last year): 7</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 90.10558143059764;
+        stroke-dashoffset: 90.10383376664926;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >695</text>
+      >705</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >222</text>
+      >223</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
